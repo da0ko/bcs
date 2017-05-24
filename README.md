@@ -1,1 +1,1 @@
-# bcs
+# Bachelors Diploma Work(Bulyga Artem) 2017
